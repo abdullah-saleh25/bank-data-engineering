@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,date_of_birth,national_id,email,phone,address,city,country,occupation,annual_income,credit_score,customer_since
+1,Cynthia,Martinez,Male,2005-03-13,87840608417590,michaelbutler@example.org,(383)749-9738x7800,22651 Ramirez Shoal Apt. 813,Bensonfurt,Egypt,"Engineer, mining",122710,638,2017-08-24
+2,Allison,Robinson,Female,1967-11-08,96076705646388,travisramirez@example.net,001-203-217-0511,4151 Joan Spur Suite 216,Valeriemouth,Egypt,"Engineer, maintenance",143589,606,2015-04-12
+3,Daniel,George,Male,1989-01-10,79769515091519,nsmith@example.org,+1-926-484-9115x41605,565 Jason Meadows,Port Kevin,Egypt,Therapeutic radiographer,44896,341,2015-06-13
+4,Alicia,Hunter,Male,2006-10-02,24266429721839,ccook@example.net,708-390-1229,349 Benjamin Mall,East Jennifer,Egypt,Air cabin crew,64227,787,2012-11-09
+5,Megan,Wallace,Male,2002-03-16,43686650684556,morrisdaniel@example.org,970-920-1964x64803,9594 Schmidt Crescent,North Katrina,Egypt,Holiday representative,491824,408,2022-07-28
+6,David,Alvarado,Female,1983-04-17,47542328492798,corey12@example.net,672.799.8477x73295,779 Mcmahon Corners Suite 533,West Lisaberg,Egypt,Systems analyst,276064,688,2015-11-17
+7,Jennifer,Murphy,Female,1983-02-06,95663581740838,wongpatricia@example.org,+1-400-518-2430,19358 Johnny Fort Suite 038,Barretthaven,Egypt,Product designer,317916,619,2019-02-03
+8,Nicholas,Davis,Male,1988-02-27,35444732401423,martinezwilliam@example.com,759.826.0208,83299 Samantha Harbors,Johnsonburgh,Egypt,Bookseller,239414,651,2022-03-04
+9,Pamela,Mcdonald,Female,1993-09-19,15645071470980,joshua17@example.org,925-839-9013x205,86183 Patrick Orchard Suite 440,Dukeview,Egypt,"Nurse, learning disability",251908,711,2019-03-16
+10,Christopher,Moreno,Female,1984-06-21,46352542161648,bkaiser@example.net,(390)484-2198,9921 Christopher Alley Apt. 484,Moodyburgh,Egypt,Fitness centre manager,381851,524,2026-05-14
+11,Samuel,Franklin,Male,1976-05-20,73942708302023,juliawoodard@example.com,001-987-791-4582,908 Timothy Village,South Kimhaven,Egypt,"Programmer, applications",144127,416,2020-07-07
+12,Michelle,Stone,Male,1969-08-07,62563565435307,wellsjennifer@example.org,(472)661-7996,22955 Tina Pass Suite 078,Johnsontown,Egypt,Financial trader,250363,485,2022-01-14
+13,Allen,Padilla,Female,1989-12-20,58721549032165,wcolon@example.org,356-480-3887x225,6483 Deleon Path,North Ashley,Egypt,Chief Executive Officer,62012,611,2024-03-18
+14,Jesus,Brown,Female,2000-04-29,45521858038852,landrynicole@example.org,695-919-5533,769 Martin Light,Sheilafurt,Egypt,Medical laboratory scientific officer,356491,331,2021-07-23
+15,Melissa,Nguyen,Male,1976-07-03,98926348657156,mlewis@example.com,001-812-625-8788x70140,78392 William Key Suite 528,Schmidtfort,Egypt,Archivist,358543,302,2016-10-19
+16,Mark,Lopez,Male,1955-08-23,30791458404070,cjones@example.net,237.907.1900x9291,55542 Jodi Green,East Lisabury,Egypt,Dramatherapist,370790,736,2014-04-23
+17,Jennifer,Scott,Male,1962-10-08,11007912683428,garcialaurie@example.net,(403)571-4400x038,034 Weaver Loaf Suite 019,East Seanchester,Egypt,Quality manager,39353,453,2016-06-16
+18,Wendy,Jensen,Male,1980-08-28,10760213976299,kimberly40@example.com,+1-358-563-8407x216,679 Keith Plaza,Katherinebury,Egypt,Chartered loss adjuster,81745,316,2018-03-19
+19,Michael,Wade,Female,1972-03-05,20309184733623,yellis@example.org,620-315-1185x67317,414 Stephen Wells Suite 632,Justinfurt,Egypt,Industrial/product designer,233901,815,2013-05-10
+20,Joseph,Fisher,Female,1974-03-24,39190039226015,katherine44@example.org,776-407-3833x4743,493 Ashley Summit Apt. 538,Port Brianside,Egypt,Control and instrumentation engineer,496387,505,2016-03-30
+21,Tammy,Foley,Male,1998-06-11,83556131949085,bobbysanders@example.net,+1-953-655-8974x6569,85229 Edward Drives,New Amanda,Egypt,Social worker,315895,746,2012-01-19
+22,Erica,Underwood,Female,1993-02-19,11763752275536,dicksonamanda@example.net,(376)227-3076,606 Heather Lock Apt. 627,New Kevinland,Egypt,Civil Service fast streamer,172719,380,2015-10-20
+23,Brenda,Buchanan,Male,1975-11-18,61831268391765,qmartinez@example.net,(356)672-0677,9375 Herrera Heights Apt. 452,Port Larryhaven,Egypt,"Producer, television/film/video",425167,506,2024-03-14
+24,Nicole,Walton,Female,1960-10-20,82273119810614,priscilla51@example.com,+1-957-557-8056x2144,36076 Davis Island,Timothyfort,Egypt,Operations geologist,429535,699,2025-08-06
+25,James,Parker,Female,2005-10-22,13110734081268,sthompson@example.org,001-393-856-1142x713,7794 Stephanie Skyway Suite 772,Lewismouth,Egypt,"Engineer, biomedical",463344,662,2024-10-26
+26,Rhonda,Hawkins,Female,1962-02-19,41418545232364,mathewjohnson@example.net,001-698-223-2001x7979,60680 Katherine Dam,Millerside,Egypt,Event organiser,89807,322,2012-09-05
+27,Kristen,Tanner,Male,1953-07-25,64977995430276,gspence@example.org,(458)463-9871,88284 Johnny Knoll Suite 303,North Megan,Egypt,"Therapist, drama",94892,829,2024-12-03
+28,Diana,Delgado,Male,1951-02-24,21037121245189,smithsarah@example.net,297-765-3687x01371,49749 Yvette Estates,Elizabethland,Egypt,Probation officer,374464,316,2017-01-28
+29,Debra,Carr,Male,1986-05-07,60226865264834,ztaylor@example.org,+1-592-535-8339x3672,55402 Padilla Prairie,South Shari,Egypt,Information officer,181417,428,2020-03-23
+30,Joseph,Mora,Male,1978-07-26,75016687329058,valerie75@example.net,(898)301-0270x984,78489 Bird Branch Suite 779,Davidfort,Egypt,Acupuncturist,142349,605,2012-08-12
+31,Elizabeth,Garcia,Male,2008-04-26,45418158572200,ryanpowell@example.org,(756)202-0933,77386 Allison Fords Suite 047,Branchstad,Egypt,Quantity surveyor,55784,549,2018-08-08
+32,Nancy,Gibbs,Male,1999-05-31,54603285098787,michaelmartinez@example.net,922.342.2363x68105,061 Nicholas Isle,Torresland,Egypt,Clinical biochemist,31114,513,2020-01-19
+33,Stephen,Morton,Female,1973-02-24,36545440573365,ann96@example.net,269.478.7949,375 Turner Corners,Sanchezshire,Egypt,Clinical embryologist,74568,696,2020-01-05
+34,Willie,Conley,Male,1984-12-29,23524062992111,paul39@example.org,+1-396-270-7546x0671,5326 Stephanie Brook,Millsberg,Egypt,Physiological scientist,114283,609,2022-08-08
+35,Kent,Haley,Male,1981-05-24,94618807303872,elizabethrussell@example.com,+1-747-909-2320x98211,32020 Newman Knoll,North Cynthiaberg,Egypt,Bookseller,351857,518,2016-06-18
+36,Heather,Reynolds,Female,1989-05-08,99441626524345,brentmorales@example.org,(298)560-8891,397 Nicholas Overpass,East Robertmouth,Egypt,Newspaper journalist,285084,611,2016-07-09
+37,Kathleen,Simmons,Female,1994-11-08,12887604330003,lesliemoore@example.net,+1-204-736-2332,18274 Jeffrey Lakes,Bennettmouth,Egypt,Glass blower/designer,102157,366,2020-12-17
+38,Eric,Cannon,Male,1982-04-27,51754165643148,lisa41@example.org,+1-628-601-9665x6311,5583 White Walks Suite 482,Lawrencestad,Egypt,"Education officer, museum",47589,633,2020-01-27
+39,Denise,Jones,Male,1954-04-17,43712291468517,martingloria@example.net,364.470.7991x8704,053 Coffey Green,Michaelborough,Egypt,"Designer, fashion/clothing",36003,552,2014-04-15
+40,Robert,Haney,Male,2001-03-10,59737981532686,csantos@example.net,001-872-280-8904x97068,54344 Bailey Ramp,East Jasmine,Egypt,"Engineer, broadcasting (operations)",236711,494,2022-01-14
+41,Alexander,Montgomery,Male,1967-11-29,81723438077159,james11@example.net,667.227.4080x342,967 Williams Greens,Bushborough,Egypt,Merchant navy officer,119200,573,2023-04-08
+42,Frank,Fox,Female,1963-10-17,94272472406537,diana89@example.com,+1-303-821-3915,3176 Parker Points Apt. 997,Johnborough,Egypt,Amenity horticulturist,397740,315,2020-10-11
+43,Dustin,Alexander,Male,1977-01-09,32696897004789,ericsimpson@example.org,791-723-6713x31697,9311 Devin Forges,East Geraldstad,Egypt,Fitness centre manager,335883,441,2023-04-23
+44,Paul,Smith,Female,1959-11-23,44135456627617,jennifer49@example.net,288.678.4630,95335 Kevin Land Suite 467,Kramerbury,Egypt,"Civil engineer, contracting",465590,352,2020-11-04
+45,Ernest,Morris,Female,1997-02-07,79459532468736,thuber@example.net,905-337-5213x5287,66411 Renee Fall Suite 224,North Adrian,Egypt,Operational investment banker,226937,539,2012-05-11
+46,Travis,Rogers,Female,1977-01-24,38111498119106,garykrueger@example.org,001-952-512-1326x03540,4707 Carlson Greens Suite 131,New Ralphside,Egypt,"Designer, blown glass/stained glass",408455,524,2024-02-05
+47,Larry,Cross,Male,1976-07-26,26077848307433,jwilliams@example.net,321-958-9120x113,9492 Giles Curve Suite 732,Sanchezborough,Egypt,"Designer, ceramics/pottery",453277,771,2015-01-31
+48,Brian,Harvey,Female,1972-03-20,73746774257786,patkinson@example.org,2652759336,3188 Stein Manors,Marymouth,Egypt,"Secretary, company",143730,378,2018-09-06
+49,Theodore,Gardner,Male,2008-07-18,41143518905482,williamslarry@example.com,(806)622-6785x6842,58552 Russell Meadow Apt. 382,North Alanburgh,Egypt,Educational psychologist,176276,428,2022-06-05
+50,Kimberly,Martinez,Female,2001-07-29,78313930962994,adam32@example.org,513-317-3574x805,8897 Amy Divide,Kingfort,Egypt,Mudlogger,166368,691,2019-02-18
+51,Laura,Brooks,Female,1976-11-22,96556573608279,jeffreyvega@example.net,(452)678-1627x76164,98494 Gilbert Prairie Apt. 508,Millerton,Egypt,Arts administrator,451120,476,2024-10-31
+52,William,Lawrence,Female,1969-10-24,90668381380535,millerdavid@example.com,(832)519-3657,948 Jones Forges Apt. 959,North Johnborough,Egypt,Catering manager,32719,453,2014-06-12
+53,Adrian,Sparks,Female,1971-06-11,51876201352547,landerson@example.org,(277)926-1382x6820,076 Daniel Mountain,North Angelamouth,Egypt,Chartered management accountant,418253,306,2015-02-15
+54,Amanda,Manning,Female,1973-12-20,88382277912905,kyle96@example.net,789-402-5125x900,85216 Richardson Groves Apt. 146,Zhangmouth,Egypt,Sales executive,356415,608,2022-02-25
+55,David,Cunningham,Male,1972-11-11,21156624996755,malonebianca@example.org,318-584-1414x815,54244 Banks Stravenue Suite 097,Torresport,Egypt,"Production assistant, television",461695,521,2025-04-12
+56,Laura,Brooks,Male,2001-04-30,93527221392650,robert29@example.net,338.554.9232x5299,086 Hansen Squares,New Austintown,Egypt,Charity officer,441008,449,2021-06-23
+57,Dawn,Sexton,Male,1996-05-21,15173120434809,wilsonryan@example.org,(594)308-6877x702,432 Michelle Vista Apt. 682,North Jose,Egypt,Clinical molecular geneticist,310352,577,2023-03-30
+58,Richard,Rodriguez,Female,1990-02-17,94306110356783,smithcathy@example.net,410.219.0758,72241 Griffin Squares,Port Heather,Egypt,Estate agent,321371,802,2012-02-08
+59,Elizabeth,Evans,Male,1988-01-30,34254331459370,grantmichael@example.com,001-823-819-5856,977 Daniel Hills,Chapmanfurt,Egypt,Fashion designer,491789,674,2012-08-24
+60,James,Green,Male,1990-05-28,34423109115225,simpsonlisa@example.org,001-298-572-4269x086,9748 Benson Canyon,Port James,Egypt,Early years teacher,245678,805,2023-11-30
+61,Anthony,Curtis,Female,1968-12-19,68719802886824,vanderson@example.net,346.835.2781x246,8171 Lamb Ramp Suite 660,Carrieborough,Egypt,"Teacher, secondary school",340459,504,2012-06-17
+62,Sarah,Robinson,Female,1971-11-09,64343690729231,kristen70@example.org,612.475.3554x0266,302 Johnson Port Suite 275,North Mary,Egypt,Clinical research associate,475095,739,2012-12-21
+63,Shawn,Morales,Male,2008-04-09,44203082263812,brittany55@example.org,001-401-403-3532x888,053 Anne Estate Apt. 613,Conniefort,Egypt,"Buyer, industrial",172597,396,2013-08-19
+64,Omar,Cole,Male,1964-11-15,60748237453778,hernandezchristopher@example.org,724.811.6808x73943,47715 Chang Center,East Dominic,Egypt,Chiropodist,327546,647,2021-01-10
+65,Eric,Newman,Male,1991-02-18,71651786738020,debragibson@example.org,391-588-1160x10006,1198 Jessica Flats,South Kellyhaven,Egypt,"Psychologist, occupational",396814,502,2024-08-31
+66,Michelle,Greene,Female,1960-11-21,44300704927663,hsmith@example.org,001-571-517-2450x11992,5835 Lisa Hollow,Raymondfort,Egypt,Energy manager,220416,636,2023-11-25
+67,Ryan,Long,Female,1970-02-12,65584495955971,lauren02@example.org,+1-415-805-4708x53956,04707 Johnson Cove,Bryanstad,Egypt,Public relations officer,50405,613,2024-02-28
+68,Edward,Murphy,Male,1967-04-25,29636424661429,munozmary@example.net,(546)764-2129,64855 Cindy Well Apt. 652,New Debra,Egypt,Logistics and distribution manager,106550,651,2012-08-10
+69,Holly,Pitts,Male,1996-11-10,54501441446893,kimberly86@example.com,(890)905-0438x05090,0574 Cooper Brooks Apt. 659,Lake Lance,Egypt,"Radiographer, therapeutic",361634,744,2015-03-23
+70,Tina,Simpson,Male,1993-08-06,24810576354360,rmiranda@example.com,289.219.2446x7422,220 Frazier Road,West Matthew,Egypt,"Physicist, medical",227086,731,2024-05-20
+71,Leslie,Espinoza,Female,1975-07-04,85239698273245,courtneyfinley@example.com,234.201.0381,19439 Zachary Field Suite 768,North Walter,Egypt,Set designer,229084,394,2024-07-24
+72,Steven,Johnson,Male,1998-04-12,76542707247157,anna80@example.net,+1-874-985-6358x68304,0080 Berry Causeway,Vanessaton,Egypt,Dance movement psychotherapist,229123,487,2014-11-28
+73,Michael,Byrd,Male,1973-12-16,78073238242655,courtneycervantes@example.org,(667)973-2410x544,943 Richard Meadows Apt. 117,Port Brendaport,Egypt,Lobbyist,328786,389,2019-12-15
+74,Colton,Freeman,Male,1964-02-23,25774053087756,woodkim@example.net,001-860-275-6402,9321 Lori Freeway Suite 655,Buckleyfort,Egypt,Maintenance engineer,263407,395,2015-01-21
+75,Tara,Moreno,Male,1955-05-24,74728192399506,dennisryan@example.org,638.314.6643x489,413 Andrew Trafficway Apt. 356,East Michael,Egypt,"Administrator, local government",234512,728,2013-09-11
+76,Phyllis,Terry,Male,1982-07-15,34755217513723,pgonzalez@example.net,(341)668-6939,04796 Mayer Track,South Lydiaport,Egypt,"Editor, magazine features",53046,416,2016-02-24
+77,William,Romero,Male,1961-04-12,30239959157075,john57@example.com,639-234-2476,65888 Danielle Road Apt. 216,North Randyland,Egypt,Sports therapist,474740,649,2022-11-04
+78,Darren,Thomas,Female,1970-03-02,32923998098389,nicholsonmisty@example.org,901-235-1391x358,6519 Shawn Knolls,New John,Egypt,Petroleum engineer,485154,301,2024-07-04
+79,Philip,Jones,Male,1993-12-30,89228062041871,lisabryant@example.net,(466)942-0331x27101,88723 Gardner Trail,Raymondfort,Egypt,Fine artist,327641,338,2016-07-20
+80,Kathryn,Wilson,Male,2001-02-11,89151186224534,adamrogers@example.org,806-591-2720x587,075 Devin Points,Brandonberg,Egypt,Civil Service administrator,327804,382,2018-01-17
+81,Heather,Carroll,Male,1970-02-02,83687394434372,andersonamanda@example.net,+1-722-291-0507x56538,5923 William Shoal Suite 368,Espinozaville,Egypt,Camera operator,219573,709,2015-01-25
+82,Dennis,Vang,Male,2002-10-06,47900833140951,zhale@example.net,+1-510-990-5541x663,0007 Victor Port,Lake William,Egypt,Human resources officer,183310,500,2020-10-27
+83,Steven,Perez,Female,1969-09-07,87739866106274,hlee@example.org,402.549.0030x914,289 Nicholas Ville,New Rose,Egypt,Medical secretary,394712,566,2015-05-20
+84,Pamela,Nelson,Female,1987-11-08,40216011049285,heathergallegos@example.net,+1-698-219-7176x618,774 Moore Stream,Seanhaven,Egypt,Armed forces logistics/support/administrative officer,444265,568,2024-01-12
+85,Patrick,Flores,Male,1958-12-19,51743716171472,ywoods@example.net,5493273264,45895 Wilkerson Vista,Port Nicholeton,Egypt,Seismic interpreter,307992,670,2023-01-25
+86,Jason,Brooks,Female,1994-09-15,37250234392962,cartercynthia@example.com,6759745802,97181 Garcia Court,North Andrewfort,Egypt,"Designer, multimedia",460744,490,2014-11-19
+87,Isaac,Carpenter,Female,1996-09-22,99741063869412,nicholaslane@example.net,943.364.9546x55454,4238 Devon Mission,East Nicoleshire,Egypt,Administrator,153884,504,2025-10-30
+88,Jennifer,Hodges,Male,1987-06-20,21880194474461,anthony24@example.com,(949)445-8344,712 Mcgrath Bridge Apt. 032,Laurashire,Egypt,"Designer, multimedia",108036,800,2015-01-15
+89,Donna,Herrera,Female,1999-05-08,81964805555212,danielmeadows@example.org,(786)608-4016x469,3349 Jennifer Courts Apt. 295,Lake Kyle,Egypt,Clinical cytogeneticist,156567,819,2013-09-17
+90,Lee,Kelley,Male,1965-10-02,52079049749833,carlsonanthony@example.com,(982)913-4376,54112 Maria Dale Apt. 120,New Antonio,Egypt,Illustrator,63939,402,2026-02-26
+91,Amber,Keller,Male,2001-07-19,84931321843844,mendozajose@example.org,533.412.9887x643,926 Catherine Mountains Suite 620,East Paulberg,Egypt,"Accountant, chartered public finance",132910,849,2022-09-03
+92,Tracy,Wilkins,Male,1967-08-30,69936990573128,randolphjoshua@example.org,(773)877-5529,76381 Hickman Viaduct Suite 135,East Pamelaton,Egypt,Electronics engineer,431466,681,2020-05-17
+93,Ernest,Hamilton,Male,1957-08-16,94702598166515,kimberlycurry@example.org,984-723-5606,7034 Bernard Roads,Marieborough,Egypt,Health visitor,220958,672,2024-11-16
+94,Elaine,Thompson,Male,1988-05-05,73242035145554,czuniga@example.com,(563)618-4408x8745,273 James Village,Port Megan,Egypt,Secondary school teacher,452527,680,2015-06-23
+95,Jose,Walker,Female,1983-05-30,60876091484177,lindapittman@example.com,545-768-7278,342 Skinner Mount,Lake Josephland,Egypt,Seismic interpreter,283400,649,2022-12-07
+96,Jason,Miller,Male,1986-03-03,69413547633290,iwallace@example.net,001-742-783-3978x0948,203 Richard Knolls Suite 648,West Anthony,Egypt,Customer service manager,127890,659,2022-01-15
+97,Angela,Phelps,Female,1979-11-11,18343376455920,christine59@example.net,001-474-903-5437,466 Lee Hills,Lake Lisa,Egypt,Sales executive,317513,461,2016-12-01
+98,Michael,Rollins,Male,1972-06-22,99134762189654,keithli@example.net,001-863-979-5260,066 Philip Ridge,New Erika,Egypt,"Doctor, general practice",491005,369,2012-10-14
+99,Mark,Bush,Female,1985-05-20,66181781922986,andrewgriffith@example.com,(711)997-3070x11647,97783 Franklin Mountain,Sextonburgh,Egypt,"Engineer, site",490749,697,2011-07-26
+100,Jeffery,Jackson,Female,2003-04-14,23375729787480,nbass@example.net,416.226.3914x430,527 Wilson Stravenue,Murrayburgh,Egypt,Training and development officer,490588,763,2019-03-07
